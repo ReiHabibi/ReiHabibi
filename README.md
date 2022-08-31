@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rei Habibi</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on [Github User Search](https://github.com/reihabibi/GitHub-Profile)
+- 🔭 I’m currently working on [Note App](https://github.com/facebook/create-react-app)
 
 - 👨‍💻 All of my projects are available at [https://reihabibi.netlify.app/](https://reihabibi.netlify.app/)
 
