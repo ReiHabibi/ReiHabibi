@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rei Habibi</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on [Note App](https://github.com/reihabibi/NoteApp)
+- 🔭 I’m currently working on ParkTek
 
-- 👨‍💻 All of my projects are available at [https://reihabibi.netlify.app/](https://reihabibi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://reihabibi.netlify.app/](https://reihabibi.com)
 
 - 📫 How to reach me **reihabibi01@gmail.com**
 
