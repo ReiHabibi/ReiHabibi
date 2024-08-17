@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ParkTek
 
-- 👨‍💻 All of my projects are available at [https://reihabibi.netlify.app/](https://reihabibi.com)
+- 👨‍💻 All of my projects are available at [https://reihabibi.com/](https://reihabibi.com)
 
 - 📫 How to reach me **reihabibi01@gmail.com**
 
